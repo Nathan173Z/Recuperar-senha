@@ -8,7 +8,7 @@ export const Dashboard = () =>{
         <>
             <NavBar />
             <Container>
-                <h1>Dashboard</h1>
+                <h1>VOCÊ ESTA LOGADO</h1>
             </Container>
         </>
     )
